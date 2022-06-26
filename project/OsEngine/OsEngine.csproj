@@ -1646,6 +1646,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Market\Servers\Huobi\FuturesSwap\Entities\" />
+    <Folder Include="My1111111111111\" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\generateButton.png" />
